@@ -1,6 +1,6 @@
 ### Hi there 👋 I didn't lie when I said Milky Way
 
-![le milky way](DSC00657,xlarge.2x.1516536298.jpg)
+![le milky way](https://raw.githubusercontent.com/zllovesuki/zllovesuki/master/DSC00657%2Cxlarge.2x.1516536298.jpg)
 
 <!--
 **zllovesuki/zllovesuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
